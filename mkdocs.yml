@@ -1,0 +1,26 @@
+site_name: Pre-Crime Consulting
+site_url: https://yourusername.github.io/pre-crime-consulting
+site_description: Feasibility studies for the legally flexible.
+site_author: The Consultant
+
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: red
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Services: services.md
+  - 'Client Testimonials': testimonials.md
+  - 'Legal Waiver': legal.md
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: >
+  Copyright &copy; 2025 Pre-Crime Consulting. Not liable if you get caught.

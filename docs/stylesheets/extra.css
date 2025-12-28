@@ -1,0 +1,6 @@
+.md-typeset blockquote {
+    background-color: #2e303e;
+    border-left: 4px solid #ff0000;
+    color: #dcdcdc;
+    font-style: italic;
+}
